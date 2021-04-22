@@ -3,4 +3,4 @@
 
 ##### model_train.json：实体识别模型训练数据
 ##### model_test.json：实体识别模型测试数据
-##### resume_data.json：中国当代政要履历数据
+##### resume_data.json：由中国政要资料库、地方党政领导人物库爬取的履历数据
